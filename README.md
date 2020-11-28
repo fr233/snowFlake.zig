@@ -1,5 +1,5 @@
 # snowFlake.zig
-snowFlake for zig lang
+snowFlake in zig lang
 
 # how to use
 download and put into your project.  
