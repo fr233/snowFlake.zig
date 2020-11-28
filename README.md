@@ -1,8 +1,7 @@
 # snowFlake.zig
 snowFlake in zig lang
 
-# how to use
-download and put into your project.  
+# how to use 
 ```
 const snowFlake = @import("./snowFlake.zig").snowFlake;
 
